@@ -4,6 +4,7 @@ Simple utility, to draw all chars of a font onto whatever display the badge supp
 
 If not all characters fit the screen, oh well ;->
 
+Feel free to contribute [here](https://github.com/btittelbach/badge_team_fontutil)
 
 ## Usage
 
